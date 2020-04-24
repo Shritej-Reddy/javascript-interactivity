@@ -20,6 +20,6 @@ Files are mostly part of the Interactivity with Javascript coursework assignment
 - Bootstrap, 
 - CSS, HTML, 
 - Environment: 
-	- Sublime, Chrome, Windows 10. 
+	- VSC, Chrome, Windows 10. 
 
 Copyright : Files available for redistribution and download only for educational purposes.
