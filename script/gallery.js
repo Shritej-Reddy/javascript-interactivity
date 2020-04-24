@@ -5,6 +5,6 @@ function upDate(previewPic){
       }
   
       function unDo(){
-          document.getElementById('image').innerHTML = "Hover over an image below to display here";
+          document.getElementById('image').innerHTML = "Hover over any image below to display different content";
         document.getElementById('image').style.backgroundImage = "url('')";
       }
